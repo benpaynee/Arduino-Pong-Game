@@ -32,7 +32,7 @@ Arduino_Pong_Console
 
 │
 
-├── Arduino_Pong_Console.ino # Main Arduino sketch
+├── Pong_Game.ino # Main Arduino sketch
 
 │
 
@@ -66,7 +66,7 @@ Generated build artifacts are intentionally excluded from version control.
 
 ## Usage
 
-1. Open `Arduino_Pong_Console.ino` in the Arduino IDE  
+1. Open `Pong_Game.ino` in the Arduino IDE  
 2. Select the correct board and serial port  
 4. Power the system and play using the joysticks  
 
