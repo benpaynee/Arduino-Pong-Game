@@ -211,8 +211,3 @@ void resetBall() {
 
   delay(500);  // Brief pause after scoring
 }
-
-// Print Boxes
-// Add lining to wires
-// Put on PCB
-// Download Code onto Microcontroller
